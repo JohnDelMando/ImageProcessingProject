@@ -25,4 +25,4 @@ This project is an implementation of several fundamental image processing algori
 * Hough Transform for Line Detection, including accumulator voting and extracting lines with prominent edges.
 
 ## **Technology Used**
-* C++
+* **C++**
